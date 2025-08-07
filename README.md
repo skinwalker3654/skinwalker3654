@@ -25,3 +25,5 @@ Tools:
   - QEMU, GCC, Make
   - Bash scripting
 
+Email: skinrr932@gmail.com
+
