@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Skinwalker</h1>
 
-### 🧠 About Me
+### About Me
 
 - ‍ I'm a self-taught teen developer who loves **low-level programming** and building things from scratch  
 - Obsessed with operating systems, kernels, and anything that runs close to the metal 
