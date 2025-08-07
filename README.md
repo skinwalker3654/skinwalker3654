@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Skinwalker</h1>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/204626931?v=4" alt="Typing SVG" />
-</p>
-
----
 
 ### 🧠 About Me
 
