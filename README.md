@@ -18,6 +18,8 @@ Languages:
   - Python
   - Rust
   - HTML/CSS (a little)
+  - Java (a litle)
+  - Assembly (vary few)
 
 Tools:
   - Git & GitHub
