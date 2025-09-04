@@ -19,7 +19,7 @@ Languages:
   - Rust
   - HTML/CSS (a little)
   - Java (a litle)
-  - Assembly (vary few)
+  - Assembly (very few)
 
 Tools:
   - Git & GitHub
