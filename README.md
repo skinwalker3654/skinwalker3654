@@ -26,6 +26,7 @@ Tools:
   - Vim, Emacs, Nano
   - QEMU, GCC, Make
   - Bash scripting
+  - Valgrind, GDB
 
 Email: skinrr932@gmail.com
 
